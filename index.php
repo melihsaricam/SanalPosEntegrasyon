@@ -7,7 +7,7 @@
  * Time: 15:33
  */
 
-require_once('/class.sanalpos.php');
+require_once('class.sanalpos.php');
 
 /*
  * Banka'dan aldığınız bilgileri bu şekilde gireceksiniz.
